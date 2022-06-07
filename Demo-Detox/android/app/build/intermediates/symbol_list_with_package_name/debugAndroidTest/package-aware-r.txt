@@ -1,0 +1,2 @@
+com.jsmarathon.test
+string app_name

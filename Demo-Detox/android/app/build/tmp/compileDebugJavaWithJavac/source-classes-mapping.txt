@@ -1,0 +1,14 @@
+com/jsmarathon/ReactNativeFlipper.java
+ com.jsmarathon.ReactNativeFlipper
+ com.jsmarathon.ReactNativeFlipper$1
+ com.jsmarathon.ReactNativeFlipper$2
+ com.jsmarathon.ReactNativeFlipper$2$1
+com/jsmarathon/MainActivity.java
+ com.jsmarathon.MainActivity
+com/jsmarathon/BuildConfig.java
+ com.jsmarathon.BuildConfig
+com/jsmarathon/MainApplication.java
+ com.jsmarathon.MainApplication
+ com.jsmarathon.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

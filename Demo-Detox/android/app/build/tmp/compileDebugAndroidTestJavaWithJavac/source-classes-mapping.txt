@@ -1,0 +1,4 @@
+com/jsmarathon/DetoxTest.java
+ com.jsmarathon.DetoxTest
+com/jsmarathon/test/BuildConfig.java
+ com.jsmarathon.test.BuildConfig
