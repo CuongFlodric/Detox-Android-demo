@@ -29,14 +29,6 @@ yarn detox
 ```
 These are custom commands which will build a debug .apk and then run detox test on the build.
 
-## Add to your own new repo
-
-```
-git remote rm origin 
-git remote add origin <your github repo.git>
-git push origin master
-```
-
 ## Resources
 
 - [Detox docs](https://wix.github.io/Detox/docs/introduction/getting-started/)
